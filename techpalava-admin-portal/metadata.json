@@ -1,0 +1,5 @@
+{
+  "name": "TechPalava Admin Portal",
+  "description": "A secure, professional admin login interface for the TechPalava tech news platform, featuring editorial aesthetics and robust authentication feedback states.",
+  "requestFramePermissions": []
+}
